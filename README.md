@@ -1,5 +1,7 @@
 # Hermes QQ Channel
 
+> 🇨🇳 中文说明文档: [README_zh.md](README_zh.md)
+
 Official QQ Open Platform Bot API adapter for Hermes Agent — enables receiving and sending messages via QQ.
 
 **Key Features:**
