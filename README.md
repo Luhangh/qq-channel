@@ -15,13 +15,13 @@ Official QQ Open Platform Bot API adapter for Hermes Agent — enables receiving
 **Install via pip (from GitHub):**
 
 ```bash
-pip install git+https://github.com/your-username/hermes-qq-channel.git
+pip install git+https://github.com/Luhangh/qq-channel.git
 ```
 
 **Or install from source:**
 
 ```bash
-git clone https://github.com/your-username/hermes-qq-channel.git
+git clone https://github.com/Luhangh/qq-channel.git
 cd hermes-qq-channel
 pip install -e .
 python install.py --hermes-dir ~/.hermes/hermes-agent
