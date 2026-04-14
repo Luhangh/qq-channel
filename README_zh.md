@@ -12,16 +12,19 @@ QQ Open Platform 官方 Bot API 适配器，让 Hermes Agent 通过 QQ 接收和
 
 ## 安装 / Installation
 
+**通过 pip 安装（来自 GitHub）：**
+
 ```bash
-pip install hermes-qq-channel
+pip install git+https://github.com/你的用户名/hermes-qq-channel.git
 ```
 
-或从源码安装：
+**或从源码安装：**
 
 ```bash
-git clone https://github.com/your-repo/hermes-qq-channel.git
+git clone https://github.com/你的用户名/hermes-qq-channel.git
 cd hermes-qq-channel
 pip install -e .
+python install.py --hermes-dir ~/.hermes/hermes-agent
 ```
 
 ## 快速开始
